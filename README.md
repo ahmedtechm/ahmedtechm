@@ -1,6 +1,7 @@
 # Hi 👋, I'm Ahmed ALAbri
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7962D&width=500&lines=Welcome+to+Ahmed's+profile!;Full+Stack+Developer;Software+Engineering;Always+learning+new+thing!;Nice+to+meet+you+...)](https://git.io/typing-svg)
 
+<img align="right" alt="Coding" width="400px" src = "https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 🔭 I’m currently working as Sofware Engineer <br>👯 I’m looking to collaborate on diffrent Project<br>🤝 I’m looking for help to learn more in the field of programming <br>🌱 I’m currently learning Spring Boot <br>💬 Ask me about anything <br>
 
 
